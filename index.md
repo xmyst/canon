@@ -103,5 +103,6 @@ write will be pretty weird.*<br>
     *Structure and Interpretation of Computer Programs, 2nd ed.*
     MIT Press, 1996.
     [[Amazon](https://www.amazon.com/dp/0262510871/)]
+    [[Web](https://mitpress.mit.edu/sites/default/files/sicp/index.html)]
 
 <!-- Vim: set et sw=4: -->
