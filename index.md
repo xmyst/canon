@@ -49,6 +49,10 @@ mathematics...*<br>
     *Algebra: An Elementary Text-Book, Vol. 1–2, 7th ed.*
     American Mathematical Society, 1999.
     [[Amazon](https://www.amazon.com/gp/product/0821819313/)]
+1.  G. Polya.
+    *How to Solve It, 2nd ed.*
+    Princeton University Press, 1973.
+    [[Amazon](https://www.amazon.com/dp/0691080976/)]
 
 ## 2. Hardware
 
