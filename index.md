@@ -2,7 +2,8 @@
 
 ## 0. English
 
-*Firstly, right from the start, English has been the Lingua Franca of computing...*<br>
+*Firstly, right from the start, English has been the Lingua Franca of
+computing...*<br>
 &mdash; Edsger W. Dijkstra, EWD989
 
 1.  R. Murphy.
@@ -16,7 +17,8 @@
 
 ## 1. Mathematics
 
-*Programming is one of the most difficult branches of applied mathematics...*<br>
+*Programming is one of the most difficult branches of applied
+mathematics...*<br>
 &mdash; Edsger W. Dijkstra, EWD498
 
 1.  Sir Th. Heath.
@@ -49,6 +51,11 @@
     [[Amazon](https://www.amazon.com/gp/product/0821819313/)]
 
 ## 2. Hardware
+
+*People who are more than casually interested in computers should have at least
+some idea of what the underlying hardware is like.  Otherwise the programs they
+write will be pretty weird.*<br>
+&mdash; Donald E. Knuth, MMIX: A RISC Computer for the Third Millennium
 
 1.  J. Hennessy, D. Patterson.
     *Computer Organization and Design: The Hardware/Software Interface, ARM ed.*
