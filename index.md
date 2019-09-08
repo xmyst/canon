@@ -47,3 +47,5 @@
     *Algebra: An Elementary Text-Book, Vol. 1–2, 7th ed.*
     American Mathematical Society, 1999.
     [[Amazon](https://www.amazon.com/gp/product/0821819313/)]
+
+<!-- Vim: set et sw=4: -->
