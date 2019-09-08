@@ -48,4 +48,15 @@
     American Mathematical Society, 1999.
     [[Amazon](https://www.amazon.com/gp/product/0821819313/)]
 
+## 2. Hardware
+
+1.  J. Hennessy, D. Patterson.
+    *Computer Organization and Design: The Hardware/Software Interface, ARM ed.*
+    Morgan Kaufmann, 2016.
+    [[Amazon](https://www.amazon.com/Computer-Organization-Design-ARM-Architecture/dp/0128017333/)]
+1.  J. Hennessy, D. Patterson.
+    *Computer Architecture: A Quantitative Approach, 6th ed.*
+    Morgan Kaufmann, 2017.
+    [[Amazon](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-Kaufmann/dp/0128119055/)]
+
 <!-- Vim: set et sw=4: -->
