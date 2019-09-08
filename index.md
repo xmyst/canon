@@ -66,4 +66,35 @@ write will be pretty weird.*<br>
     Morgan Kaufmann, 2017.
     [[Amazon](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-Kaufmann/dp/0128119055/)]
 
+## 3. Fundamentals
+
+1.  E. W. Dijkstra, C. A. R. Hoare, O.-J. Dahl.
+    *Structured Programming.*
+    Academic Press, 1972.
+    [[Amazon](https://www.amazon.com/dp/0122005503/)]
+1.  N. Wirth.
+    *Systematic Programming: An Introduction.*
+    Prentice Hall, 1973.
+    [[Amazon](https://www.amazon.com/dp/0138803692/)]
+1.  D. Knuth.
+    Structured Programming with `go to` Statements.
+    *Computing Surveys,* 6(4):261–301, 1974.
+    [[PDF](https://pic.plover.com/knuth-GOTO.pdf)]
+1.  N. Wirth.
+    *Algorithms + Data Structures = Programs.*
+    Prentice Hall, 1976.
+    [[Amazon](https://www.amazon.com/dp/0130224189/)]
+1.  E. W. Dijkstra.
+    *A Discipline of Programming.*
+    Pearson, 1976.
+    [[Amazon](https://www.amazon.de/dp/013215871X/)]
+1.  B. W. Kernighan, P. J. Plauger.
+    *The Elements of Programming Style, 2nd ed.*
+    McGraw Hill, 1978.
+    [[Amazon](https://www.amazon.com/dp/0070342075/)]
+1.  H. Abelson, G. J. Sussman, J. Sussman.
+    *Structure and Interpretation of Computer Programs, 2nd ed.*
+    MIT Press, 1996.
+    [[Amazon](https://www.amazon.com/dp/0262510871/)]
+
 <!-- Vim: set et sw=4: -->
