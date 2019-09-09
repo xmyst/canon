@@ -59,7 +59,7 @@ mathematics...*<br>
 *People who are more than casually interested in computers should have at least
 some idea of what the underlying hardware is like.  Otherwise the programs they
 write will be pretty weird.*<br>
-&mdash; Donald E. Knuth, MMIX: A RISC Computer for the Third Millennium
+&mdash; Donald E. Knuth, `MMIX:` A RISC Computer for the Third Millennium
 
 1.  J. Hennessy, D. Patterson.
     *Computer Organization and Design: The Hardware/Software Interface, ARM ed.*
