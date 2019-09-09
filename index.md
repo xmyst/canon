@@ -73,7 +73,7 @@ write will be pretty weird.*<br>
 ## 3. Fundamentals
 
 *If I have seen further it is by standing on the sholders of Giants.*<br>
-&mdash; Isaac Newton
+&mdash; Isaac Newton, Letter to Robert Hooke
 
 1.  E. W. Dijkstra, C. A. R. Hoare, O.-J. Dahl.
     *Structured Programming.*
