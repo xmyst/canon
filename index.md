@@ -49,10 +49,6 @@ mathematics...*<br>
     *Algebra: An Elementary Text-Book, Vol. 1–2, 7th ed.*
     American Mathematical Society, 1999.
     [[Amazon](https://www.amazon.com/gp/product/0821819313/)]
-1.  G. Polya.
-    *How to Solve It, 2nd ed.*
-    Princeton University Press, 1973.
-    [[Amazon](https://www.amazon.com/dp/0691080976/)]
 
 ## 2. Hardware
 
@@ -91,10 +87,6 @@ write will be pretty weird.*<br>
     *A Discipline of Programming.*
     Pearson, 1976.
     [[Amazon](https://www.amazon.de/dp/013215871X/)]
-1.  B. W. Kernighan, P. J. Plauger.
-    *The Elements of Programming Style, 2nd ed.*
-    McGraw Hill, 1978.
-    [[Amazon](https://www.amazon.com/dp/0070342075/)]
 1.  H. Abelson, G. J. Sussman, J. Sussman.
     *Structure and Interpretation of Computer Programs, 2nd ed.*
     MIT Press, 1996.
@@ -126,5 +118,28 @@ arrived at by the machine in the shortest time?*<br>
     Society for Industrial and Applied Mathematics, 1987.
     [[Amazon](https://www.amazon.com/dp/0898711878/)]
     [[Web](https://epubs.siam.org/doi/book/10.1137/1.9781611970265)]
+
+## 5. Methodology
+
+*Without systematic unity, our knowledge cannot become science; it will be an
+aggregate, and not a system.*<br>
+&mdash; Immanuel Kant, Kritik der reinen Vernunft
+
+1.  G. Polya.
+    *How to Solve It, 2nd ed.*
+    Princeton University Press, 1973.
+    [[Amazon](https://www.amazon.com/dp/0691080976/)]
+1.  B. W. Kernighan, P. J. Plauger.
+    *The Elements of Programming Style, 2nd ed.*
+    McGraw Hill, 1978.
+    [[Amazon](https://www.amazon.com/dp/0070342075/)]
+1.  F. P. Brooks.
+    *The Mythical Man-Month, 2nd ed.*
+    Addison-Wesley, 1995.
+    [[Amazon](https://www.amazon.com/dp/0201835959/)]
+1.  F. P. Brooks.
+    *The Design of Design.*
+    Addison-Wesley, 2010.
+    [[Amazon](https://www.amazon.com/dp/0201362988/)]
 
 <!-- Vim: set et sw=4: -->
