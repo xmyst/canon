@@ -41,10 +41,6 @@ mathematics...*<br>
     *The Thirteen Books of the Elements, Vol. 3: Books 10–13, 2nd ed.*
     Dover Publications, 1956.
     [[Amazon](https://www.amazon.com/dp/0486600904/)]
-1.  Sir Th. Heath.
-    *The Works of Archimedes.*
-    Dover Publications, 2002.
-    [[Amazon](https://www.amazon.com/dp/0486420841/)]
 1.  G. Chrystal.
     *Algebra: An Elementary Text-Book, Vol. 1–2, 7th ed.*
     American Mathematical Society, 1999.
