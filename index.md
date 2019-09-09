@@ -121,9 +121,9 @@ arrived at by the machine in the shortest time?*<br>
 
 ## 5. Methodology
 
-*Without systematic unity, our knowledge cannot become science; it will be an
+*Without systematic unity, our knowledge can not become science; it will be an
 aggregate, and not a system.*<br>
-&mdash; Immanuel Kant, Kritik der reinen Vernunft
+&mdash; Immanuel Kant, Critique of Pure Reason
 
 1.  G. Polya.
     *How to Solve It, 2nd ed.*
