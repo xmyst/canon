@@ -87,10 +87,6 @@ write will be pretty weird.*<br>
     Structured Programming with `go to` Statements.
     *Computing Surveys,* 6(4):261–301, 1974.
     [[PDF](https://pic.plover.com/knuth-GOTO.pdf)]
-1.  N. Wirth.
-    *Algorithms + Data Structures = Programs.*
-    Prentice Hall, 1976.
-    [[Amazon](https://www.amazon.com/dp/0130224189/)]
 1.  E. W. Dijkstra.
     *A Discipline of Programming.*
     Pearson, 1976.
@@ -104,5 +100,31 @@ write will be pretty weird.*<br>
     MIT Press, 1996.
     [[Amazon](https://www.amazon.com/dp/0262510871/)]
     [[Web](https://mitpress.mit.edu/sites/default/files/sicp/index.html)]
+
+## 4. Algorithms
+
+*As soon as an Analytical Engine exists, it will necessarily guide the future
+course of the science. Whenever any result is sought by its aid, the question
+will then arise &mdash; by what course of calculation can these results be
+arrived at by the machine in the shortest time?*<br>
+&mdash; Charles Babbage, Passages from the Life of a Philosopher
+
+1.  N. Wirth.
+    *Algorithms + Data Structures = Programs.*
+    Prentice Hall, 1976.
+    [[Amazon](https://www.amazon.com/dp/0130224189/)]
+1.  D. Knuth.
+    *The Art of Computer Programming, Vol. 1, Fasc. 1: `MMIX:` A RISC Computer for the New Millennium.*
+    Addison-Wesley, 2005.
+    [[Amazon](https://www.amazon.com/dp/0201853922/)]
+1.  D. Knuth.
+    *The Art of Computer Programming, Vol. 1-4A.*
+    Addison-Wesley, 2011.
+    [[Amazon](https://www.amazon.com/dp/0321751043/)]
+1.  R. E. Tarjan.
+    *Data Structures and Network Algorithms.*
+    Society for Industrial and Applied Mathematics, 1987.
+    [[Amazon](https://www.amazon.com/dp/0898711878/)]
+    [[Web](https://epubs.siam.org/doi/book/10.1137/1.9781611970265)]
 
 <!-- Vim: set et sw=4: -->
