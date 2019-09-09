@@ -110,7 +110,7 @@ arrived at by the machine in the shortest time?*<br>
     Addison-Wesley, 2005.
     [[Amazon](https://www.amazon.com/dp/0201853922/)]
 1.  D. Knuth.
-    *The Art of Computer Programming, Vol. 1-4A.*
+    *The Art of Computer Programming, Vol. 1–4A.*
     Addison-Wesley, 2011.
     [[Amazon](https://www.amazon.com/dp/0321751043/)]
 1.  R. E. Tarjan.
