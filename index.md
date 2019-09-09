@@ -113,7 +113,6 @@ arrived at by the machine in the shortest time?*<br>
     *Data Structures and Network Algorithms.*
     Society for Industrial and Applied Mathematics, 1987.
     [[Amazon](https://www.amazon.com/dp/0898711878/)]
-    [[Web](https://epubs.siam.org/doi/book/10.1137/1.9781611970265)]
 
 ## 5. Methodology
 
