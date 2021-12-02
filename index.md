@@ -29,18 +29,6 @@ mathematics...*<br>
     *A History of Greek Mathematics, Vol. 2: From Aristarchus to Diophantus.*
     Dover Publications, 1981.
     [[Amazon](https://www.amazon.com/dp/0486240746/)]
-1.  Sir Th. Heath.
-    *The Thirteen Books of the Elements, Vol. 1: Books 1–2, 2nd ed.*
-    Dover Publications, 1956.
-    [[Amazon](https://www.amazon.com/dp/0486600882/)]
-1.  Sir Th. Heath.
-    *The Thirteen Books of the Elements, Vol. 2: Books 3–9, 2nd ed.*
-    Dover Publications, 1956.
-    [[Amazon](https://www.amazon.com/dp/0486600890/)]
-1.  Sir Th. Heath.
-    *The Thirteen Books of the Elements, Vol. 3: Books 10–13, 2nd ed.*
-    Dover Publications, 1956.
-    [[Amazon](https://www.amazon.com/dp/0486600904/)]
 1.  G. Chrystal.
     *Algebra: An Elementary Text-Book, Vol. 1–2, 7th ed.*
     American Mathematical Society, 1999.
